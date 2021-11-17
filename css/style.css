@@ -1,0 +1,41 @@
+.price-features li{
+    padding-top: 5px!important;
+    padding-bottom: 5px!important;
+}
+
+.our-team .box .image .social-icon{
+    margin-top: 0!important;
+}
+
+.our-team .box:hover .social-icon{
+    margin-top: 100px!important;
+}
+
+/*.navbar-margin{
+    margin-top: 40px;
+}*/
+
+.top-bar li{
+    margin-left: 10px!important;
+}
+
+.top-bar-color{
+    color: #ffffff;
+}
+
+.top-bar-btn{
+    border-radius: 65px;
+}
+
+.navbar-margin{
+    margin-top: 50px;
+}
+
+.logo {
+    height: 41px;
+    width: auto;
+}
+
+.seperator{
+    margin-left: 20px;
+}
